@@ -27,5 +27,4 @@ This project analyzes IPL (Indian Premier League) data using Python to extract i
 3. Run all cells
 
 ## 📌 Future Improvements
-- Power BI Dashboard
 - Streamlit Web App
